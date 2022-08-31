@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zNWR4/Aq4fcdRwQmGJ9MyHhPo8LYiW6Pq+JU4TsbSOHLqOUUDo6/GUw32dU90hMEmAIY8/XGX53mr0yiV9YEg==",
+  "success": true,
+  "projectFilePath": "E:\\RnD\\BLOGProject\\BlogProject\\BlogProject\\BlogProject.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvm_m\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\mvm_m\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
